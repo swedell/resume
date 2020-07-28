@@ -1,19 +1,28 @@
 # Education Template
 - layout: top-middle
   name: Father Conceicao Rodrigues Institute of Technology, Vashi
-  dates: 2017 - 2021
+  dates: Year of Passing : 2021
   qualification: B.E Information Technology
   quote: 
     CGPA 7.60/10
     
-  description: | # this will include new lines to allow paragraphs
+#   description: | # this will include new lines to allow paragraphs
     
     
-- layout: left
-#   name: 
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Institution name
-  quote: >
-    Qualifications (eg. BA Performing Arts)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+- layout: top-middle
+  name: V G Vaze College of Arts, Science and Commerce, Mulund
+  dates: Year of Passing : 2017
+  qualification: HSC Board 
+  quote: 
+    64.70 % 
+#   description: | # this will include new lines to allow paragraphs
+#     Description of qualification
+
+- layout: top-middle
+  name: St. Mary's Convent High School, Mulund
+  dates: Year of Passing : 2015
+  qualification: SSC Board 
+  quote: 
+   93.60 % 
+#   description: | # this will include new lines to allow paragraphs
+#     Description of qualification
