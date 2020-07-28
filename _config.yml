@@ -48,13 +48,18 @@ linkedin_username: swedel-lasrdao-306460197
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  I am a 20 year old enthusiastic girl pursuing my Batchelors of Engineering in Infromation Technology who strongly belives programming is an amalgam of creativity which gets perfect with persistance and experiences which is limitless and helps you see the world through your imagination.
+  
+  I am driven by the fact that the real world problems can be solved by the click of a finger or few lines of code. I believe in making a difference by using the most of the resources provided by technology.
+
+#   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+#   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#     - Lists
+#     - Tables
+#     - <a href="google.com">Links</a>
+#     - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
