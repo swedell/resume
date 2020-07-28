@@ -4,7 +4,7 @@
   dates: Year of Passing - 2021
   qualification: B.E Information Technology
   quote: 
-    CGPA 7.60/10
+    CGPA 7.60
     
 #   description: | # this will include new lines to allow paragraphs
     
@@ -14,7 +14,7 @@
   dates: Year of Passing - 2017
   qualification: HSC Board 
   quote: 
-    64.70 % 
+    Percentage 64.70 
 #   description: | # this will include new lines to allow paragraphs
 #     Description of qualification
 
@@ -23,6 +23,6 @@
   dates: Year of Passing - 2015
   qualification: SSC Board 
   quote: 
-   93.60 % 
+    Percentage 93.60
 #   description: | # this will include new lines to allow paragraphs
 #     Description of qualification
