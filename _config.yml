@@ -49,7 +49,9 @@ linkedin_username: swedel-lasrdao-306460197
 about_profile_image: assets/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
-  I am a 20 year old enthusiastic girl pursuing my Batchelors of Engineering in Infromation Technology who strongly belives programming is an amalgam of creativity which gets perfect with persistance and experiences which is limitless and helps you see the world through your imagination.
+  I am a 20 year old enthusiastic girl pursuing my Batchelors of Engineering in Infromation Technology. 
+  
+  For me programming is an amalgam of creativity which gets perfect with persistance and experiences which are limitless and help you see the world through your own imagination.
   
   I am driven by the fact that the real world problems can be solved by the click of a finger or few lines of code. I believe in making a difference by using the most of the resources provided by technology.
 
@@ -62,13 +64,13 @@ about_content: | # this will include new lines to allow paragraphs
 #     - Images
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: Education #(Use this to override about education section title)
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
