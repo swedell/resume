@@ -26,16 +26,16 @@
   description: | # this will include new lines to allow paragraphs
     A wearable soldier’s strap used to track location and monitor health using sensors (pulse, temperature) of the team by the commander as well as soldiers to establish secure communication between themselves.
      
-  - layout: top-middle
-  name: Look-Book
+ - layout: top-middle
+   name: Look-Book
 #   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: swedell/lookbook
-  quote: >
+   github: swedell/lookbook
+   quote: >
    Jun 2019 - Oct 2019
-  description: | # this will include new lines to allow paragraphs
-  A website for college students to buy/rent books from the students within the campus itself.
+   description: | # this will include new lines to allow paragraphs
+     A website for college students to buy/rent books from the students within the campus itself.
   
-  - layout: top-middle
+- layout: top-middle
   name: IOT based Child Tracking System
 #   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #   github: TejeshJadhav/Soldiers-Strap
@@ -44,7 +44,7 @@
   description: | # this will include new lines to allow paragraphs
     This is a wearable kit like an ID card which the child carries. The Parent must send a SMS to the child's system and the system will send back the current location. This system also has Emergency Alarm.
     
- - layout: top-middle
+- layout: top-middle
   name: Home-Automation-with-Security-Energy-Monitoring-System
 #   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
 #   github: TejeshJadhav/Soldiers-Strap
@@ -54,7 +54,7 @@
     Home Automation services which include controlling lighting and appliances.The fetaures including fire detection and security serveillance which is efficient and economical and easily accessible to all income groups.
     
     
- - layout: top-middle
+- layout: top-middle
   name: Steganography-using-python
 #   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: swedell/Steganography-using-python
@@ -63,7 +63,7 @@
   description: | # this will include new lines to allow paragraphs
     A Python Application has method of hiding secret data in any image/audio/video.
     
-  - layout: top-middle
+- layout: top-middle
   name: Custom Text Editor
 #   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: swedell/SPLASH-Text-Editor-
