@@ -3,7 +3,7 @@
   name: Father Conceicao Rodrigues Institute of Technology, Vashi
   dates: Year of Passing 2021
   qualification: B.E Information Technology
-  quote: 
+  quote: >
     CGPA 7.60
     
 #   description: | # this will include new lines to allow paragraphs
@@ -13,7 +13,7 @@
   name: V G Vaze College of Arts, Science and Commerce, Mulund
   dates: Year of Passing 2017
   qualification: HSC Board 
-  quote: 
+  quote: >
     Percentage 64.70 
 #   description: | # this will include new lines to allow paragraphs
 #     Description of qualification
@@ -22,7 +22,7 @@
   name: St. Mary's Convent High School, Mulund
   dates: Year of Passing 2015
   qualification: SSC Board 
-  quote: 
+  quote: >
     Percentage 93.60
 #   description: | # this will include new lines to allow paragraphs
 #     Description of qualification
