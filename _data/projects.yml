@@ -5,7 +5,7 @@
 #   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: 
    Jul 2020  Present
-  description: | # this will include new lines to allow paragraphs
+   description: | # this will include new lines to allow paragraphs
     A Digital Signage System that will utilize some computer devices are widely used for displaying some dynamic information. The digital signage along with surveillance will be used to monitor social distancing, security threats.
 
 - layout: top-middle
@@ -67,7 +67,7 @@
   name: Custom Text Editor
 #   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: swedell/SPLASH-Text-Editor-
-  quote: >
+  quote: 
    Jun 2018 to Oct 2018
   description: | # this will include new lines to allow paragraphs
     Custom Text Editor Application developed using Python and Tkinter.
